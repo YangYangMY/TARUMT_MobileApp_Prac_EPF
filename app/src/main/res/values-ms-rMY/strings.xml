@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KWSP</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="menu_home">Rumah</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_slideshow">Tayangan Slaid</string>
+    <string name="menu_dividend">Dividen</string>
+    <string name="menu_investment">Pelaburan</string>
+    <string name="logo">Logo KWSP</string>
+    <string name="dividend_2022">Dividen 2022</string>
+    <string name="dob">Tarikh lahir</string>
+    <string name="calculate">Kira</string>
+    <string name="reset">Tetapkan semula</string>
+    <string name="age">Umur</string>
+</resources>
